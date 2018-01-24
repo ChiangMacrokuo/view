@@ -1,8 +1,8 @@
 {
-	"name": "macro/view",
+	"name": "Macro/View",
 	"description": "Macro PHP View ",
 	"license": "MIT",
-	"keywords": ["macro","view"],
+	"keywords": ["Macro","View"],
 	"version": "1.0.0",
 	"authors": [
 		{
